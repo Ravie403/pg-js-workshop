@@ -23,8 +23,8 @@ div#display{
   font-size: 40px;
   color: var(--display-color);
   display: flex;
-  justify-content: end;
-  align-items: end;
+  justify-content: flex-end;
+  align-items: flex-end;
   border-bottom: 1px solid black;
   margin-bottom: 4px;
 }
